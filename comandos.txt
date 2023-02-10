@@ -5,3 +5,8 @@ git add
 git push
 git config
 git remote
+git branch
+git switch
+git checkout
+git reflog
+git reset
