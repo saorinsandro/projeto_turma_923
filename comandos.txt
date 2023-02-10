@@ -1,0 +1,4 @@
+Comandos que aprendemos
+git init
+git status
+git add
